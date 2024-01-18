@@ -29,4 +29,4 @@ to discuss what you would like to change.
 
 #### Copy Rights
 
-@lasinduSemasingha
+[Lasindu Semasingha](https://github.com/lasinduSemasingha)
